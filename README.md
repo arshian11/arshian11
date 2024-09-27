@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 😄 About Me
+# 📝 About Me
 I am Mohammed Arsh Raza, a passionate Machine Learning Developer currently in my Third year pursuing B.Tech in Computer Science and Engineering and B.Tech in Chemical Engineering at IIT(ISM), Dhanbad,Jharkhand,India. 
 
 - 🔭 I’m currently working on developing a Generative AI model which can be leveraged in increasing the efficency and workflow of a Geothermal Energy Plant
